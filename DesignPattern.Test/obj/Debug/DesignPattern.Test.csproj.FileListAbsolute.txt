@@ -1,0 +1,7 @@
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\bin\Debug\DesignPattern.Test.dll
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\bin\Debug\DesignPattern.Test.pdb
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\bin\Debug\DesignPattern.dll
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\bin\Debug\DesignPattern.pdb
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\obj\Debug\DesignPattern.Test.dll
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\obj\Debug\DesignPattern.Test.pdb
+D:\01.编程相关\C#\MyTest\DesignPattern.Test\obj\Debug\DesignPattern.Test.csprojResolveAssemblyReference.cache
