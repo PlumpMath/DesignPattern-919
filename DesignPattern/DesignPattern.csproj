@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CreationalPattern\AbstractFactory.cs" />
+    <Compile Include="CreationalPattern\Builder.cs" />
     <Compile Include="CreationalPattern\FactoryMethod.cs" />
     <Compile Include="CreationalPattern\Singleton.cs" />
     <Compile Include="NewInNet4\LazeMode.cs" />

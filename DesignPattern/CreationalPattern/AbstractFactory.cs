@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.CreationalPattern
 {
-    /// <summary>抽象工厂</summary>
+    /// <summary>抽象工厂,采用继承</summary>
     /// <remarks>与抽象方法的区别在于需要创建对象的复杂程度上</remarks>
     /// <remarks>为系统结构提供了非常灵活强大的动态扩展机制，只要我们更换一下具体的工厂方法，系统其他地方无需一点变换，就有可能将系统功能进行改头换面的变化。</remarks>
     public class AbstractFactory
@@ -67,5 +67,6 @@ namespace DesignPattern.CreationalPattern
             }
         }
         #endregion
+
     }
 }

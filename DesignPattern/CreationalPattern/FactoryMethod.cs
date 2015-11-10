@@ -2,7 +2,7 @@
 
 namespace DesignPattern.CreationalPattern
 {
-    /// <summary>工厂方法</summary>
+    /// <summary>工厂方法,采用聚合</summary>
     /// <remarks>我们无需知道工厂是如何加工东西的</remarks>
     /// <remarks>只需要告诉工厂我们需要的是什么就好了</remarks>
     /// <remarks>意图是 定义一个用于创建对象的接口，让子类决定实例化哪一个类。Factory Method 使一个类的实例化延迟到其子类。</remarks>
@@ -25,7 +25,7 @@ namespace DesignPattern.CreationalPattern
                         return WriteEvent();
                         break;
                     case "file":
-                         return WriteFile();
+                        return WriteFile();
                         break;
                     default:
                         return null;

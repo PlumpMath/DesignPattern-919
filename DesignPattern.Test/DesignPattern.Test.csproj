@@ -53,6 +53,7 @@
     <Compile Include="CreationalPattern\AbstractFactoryTest.cs" />
     <Compile Include="CreationalPattern\FactoryMethodTest.cs" />
     <Compile Include="CreationalPattern\SingletonTest.cs" />
+    <Compile Include="CreationalPattern\BuilderTest.cs" />
     <Compile Include="NewInNet4\LazeModeTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
